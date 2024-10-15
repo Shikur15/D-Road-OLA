@@ -1,0 +1,13 @@
+activate
+source venv/Scripts/activate
+
+git push cmd
+
+#to see the changes made
+git status 
+# to add all changes
+git add . 
+
+git commit -m"messages"
+
+git push
