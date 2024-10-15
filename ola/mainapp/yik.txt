@@ -1,4 +1,0 @@
-activate
-source venv/Scripts/activate
-
-push
